@@ -14,6 +14,7 @@
     <p>Our Products.</p>
     <img src="https://www.bing.com/images/feed/idea?host=ifip&source=PrismConsumption&idpmd=newtab&hdh=1#CA!ImgDetail" width="150"/>
       <img src="https://www.bing.com/images/feed/idea?host=ifip&source=PrismConsumption&idpmd=newtab&hdh=1#CA!ImgDetail" height="100"/>
-    
+    <a href="http://google.com">Click here to go to google</a>
+    <a href="http://www.itvarsity.org">Click here to go to IT varsity</a>
 </body>
 </html>
